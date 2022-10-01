@@ -1,2 +1,3 @@
-# terraform-class-combined
-Started Class 2
+modole "asg" {
+source = "yerzhanwingo/asg/aws"
+}
